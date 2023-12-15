@@ -1,3 +1,3 @@
 # ED_Practica_Git
-> .[!NOTE]
+> .[!NOTE].
 > Tarea 5 - Práctica Git - Entornos de Desarrollo
