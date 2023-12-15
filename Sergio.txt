@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Iván Muriel
 Mi película favorita es una Christopher Nolan
+=======
+Sergio
+Arcane
+>>>>>>> 86b6b1d5e0b0f1c9dbf16b6a013a1e1b78239baf
